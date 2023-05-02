@@ -3,8 +3,8 @@
 ## Checkbox Instructions
 
 To use the checkboxes you must fork the repository and add an X instead of a space between the brackets
-- [ ] Checked
-- [X] Unchecked
+- [X] Checked
+- [] Unchecked
 
 ## Premium questions
 
