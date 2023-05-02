@@ -4,7 +4,7 @@
 
 To use the checkboxes you must fork the repository and add an X instead of a space between the brackets
 - [X] Checked
-- [] Unchecked
+- [ ] Unchecked
 
 ## Premium questions
 
